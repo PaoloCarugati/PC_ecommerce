@@ -1,0 +1,119 @@
+{
+  "scarpe": [
+    {
+      "id": 1,
+      "nome": "madidas",
+      "prezzo": 35.00
+    },
+    {
+      "id": 2,
+      "nome": "mike",
+      "prezzo": 59.90
+    },
+    {
+      "id": 3,
+      "nome": "leopard",
+      "prezzo": 47.50
+    }  
+  ],
+  "magliette": [
+    {
+      "id": 1,
+      "nome": "lacroste",
+      "tipologia": "polo",
+      "prezzo": 69.69
+    },
+    {
+      "id": 2,
+      "nome": "pollo ralph lauren",
+      "tipologia": "polo",
+      "prezzo": 79.79
+    },
+    {
+      "id": 3,
+      "nome": "canottiera da magutto",
+      "tipologia": "canotta",
+      "prezzo": 9.90
+    },
+    {
+      "id": 4,
+      "nome": "fruit of the bloom",
+      "tipologia": "t-shirt",
+      "prezzo": 18.00
+    }
+  ]
+}
+
+
+{
+  "records": [
+    {
+      "id": 1,
+      "title": "Songs in the key of life",
+      "artist": "Stevie Wonder",
+      "year": 1976,
+      "company": "Motown"
+    },
+    {
+      "id": 2,
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "year": 1959,
+      "company": "Columbia"      
+    },
+    {
+      "id": 3,
+      "title": "Synchronicity",
+      "artist": "The Police",
+      "year": 1983,
+      "company": "A&M"      
+    },
+    {
+      "id": 4,
+      "title": "Bach - Goldberg Variations",
+      "artist": "Glenn Gould",
+      "year": 1955,
+      "company": "Sony Classical"      
+    }    
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Stevie Wonder",
+      "birthdate": "13/05/1950"
+    },
+    {
+      "id": 2,
+      "name": "Miles Davis",
+      "birthdate": "26/05/26"
+    },
+    {
+      "id": 3,
+      "name": "Sting",
+      "birthdate": "02/10/1951"
+    },
+    {
+      "id": 4,
+      "name": "Glenn Gould",
+      "birthdate": "25/09/1932"
+    } 
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Motown"
+    },
+    {
+      "id": 2,
+      "name": "Columbia"
+    },
+    {
+      "id": 3,
+      "name": "A&M"
+    },
+    {
+      "id": 4,
+      "name": "Sony Classical"
+    }
+  ]
+}
